@@ -74,3 +74,5 @@ Pentru test 3 : 648 - 470 - 4 = 174
 Folosind aceeasi metoda, am aflat locatia de unde se incarca valoarea registrului $eax, pentru care se face call (1171). De unde a rezultat dimensiunea 447 a padingului.
 
 Adresa care vrem sa fie scrisa este 0x080485b1, inceputul functiei print_flag.
+
+© 2020 Grama Nicolae, 322CA
